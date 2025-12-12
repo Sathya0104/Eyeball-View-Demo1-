@@ -1,16 +1,35 @@
-# React + Vite
+# ReactFlow Network Visualization Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple interactive network diagram built with ReactFlow, showcasing server-router connections with click-to-open node menus.
 
-Currently, two official plugins are available:
+## Features
+- Interactive network graph with **4 nodes** (1 Server + 3 Routers)
+- Click any node to open a menu (Inspect, Info)
+- Custom styled edges with arrows and labels
+- Drag, zoom, and pan controls
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React + Vite
+- ReactFlow (@xyflow/react) - Node-based UI library
+- Radix Icons
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Installation & Setup
 
-## Expanding the ESLint configuration
+### Prerequisites
+- Node.js (v18+ recommended)
+- npm or yarn
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Clone & Install
+## > git clone https://github.com/Sathya0104/Eyeball-View-Demo1-.git
+## > cd Eyeball-View-Demo1-
+## > npm install
+
+
+### 2. Run Development Server 
+## > npm run dev
+
+
+##  License
+MIT License - Feel free to use in your projects!
+
