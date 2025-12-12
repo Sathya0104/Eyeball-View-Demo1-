@@ -31,5 +31,5 @@ A simple interactive network diagram built with ReactFlow, showcasing server-rou
 
 
 ##  License
-MIT License - Feel free to use in your projects!
+MIT License - Free to use 
 
