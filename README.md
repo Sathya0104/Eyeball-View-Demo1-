@@ -16,7 +16,7 @@ A simple interactive network diagram built with ReactFlow, showcasing server-rou
 
 ##  Installation & Setup
 
-### Prerequisites
+### Pre-Requirements
 - Node.js (v18+ recommended)
 - npm or yarn
 
